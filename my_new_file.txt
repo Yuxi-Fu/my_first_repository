@@ -1,1 +1,11 @@
 hello world
+
+PS C:\Users\Diana\Documents> cd .\my_first_repository\
+PS C:\Users\Diana\Documents\my_first_repository> notepad my_new_file
+PS C:\Users\Diana\Documents\my_first_repository> git add --all
+PS C:\Users\Diana\Documents\my_first_repository> git commit -m "created my_new_file.txt"
+PS C:\Users\Diana\Documents\my_first_repository> ^Ct config --global user.email "
+PS C:\Users\Diana\Documents\my_first_repository> git config --global user.email "yuxi_fu@outlook.com"
+PS C:\Users\Diana\Documents\my_first_repository> git config --global user.name "Diana"
+PS C:\Users\Diana\Documents\my_first_repository> git commit -m "created my_new_file.txt"
+PS C:\Users\Diana\Documents\my_first_repository> git push
